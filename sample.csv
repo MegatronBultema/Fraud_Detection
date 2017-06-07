@@ -1,0 +1,4 @@
+,approx_payout_date,body_length,channels,delivery_method,event_created,event_duration,event_end,event_start,fb_published,gts,has_analytics,has_logo,name_caps,name_length,num_order,num_payouts,num_previous_payouts,org_caps,org_facebook,org_twitter,sale_duration2,show_map,user_age,user_type,venue_caps,venue_missing,object_id,prob_fraud
+0,20353345,4252,11,1,15541004,18000,19921345,19903345,0,3002.31,0,1,False,47,39,1,4,False,0,0,50,1,180,1,False,False,6487709,0.0002197852445533499
+0,20353345,4252,11,1,15541004,18000,19921345,19903345,0,3002.31,0,1,False,47,39,1,4,False,0,0,50,1,180,1,False,False,6487712,0.50
+0,20353345,4252,11,1,15541004,18000,19921345,19903345,0,3002.31,0,1,False,47,39,1,4,False,0,0,50,1,180,1,False,False,6487812,0.70
